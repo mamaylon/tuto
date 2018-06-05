@@ -1,2 +1,3 @@
 # tuto
 aprendendo
+comandos basicos
